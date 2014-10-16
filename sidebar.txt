@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auj:home|Door43 (auj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auj|d43-auj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auj/archive/master.zip|d43-auj.zip]]
+
+**Recent Changes**
+{{changes>ns = auj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auj|Ethnologue data]]
+
